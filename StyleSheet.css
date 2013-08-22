@@ -1,0 +1,48 @@
+﻿.title
+{
+    margin: 10px;
+    font: "宋体";
+    font-size: 16px;
+    font-weight: bold;
+}
+.text
+{
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    line-height: 1.5em;
+}
+.table
+{
+    margin-top:20px;
+    margin-left:40px;
+    width:800px;
+}
+.tdright
+{
+    padding:5px;
+    border: 1px solid #FFFFFF;
+    background-color: #E4E4E4;
+
+}
+.tdleft
+{
+    border: 1px solid #FFFFFF;
+    width: 130px;
+    padding: 5px;
+    text-align: center;
+    background-color: #E4E4E4;
+}
+.register
+{
+    margin-left: 200px;
+}
+.subtitle
+{
+    font-size: 11pt;
+    font-weight: bold;
+}
+.gvstyle
+{
+    margin-left: 40px;
+    margin-top: 10px;
+}

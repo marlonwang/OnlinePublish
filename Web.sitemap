@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="在线投稿系统"  description="">
+      <siteMapNode url="" title="作者投稿"  description="">
+      <siteMapNode url="" title="使用导航"  description="" >
+        <siteMapNode url="~/author/notice.aspx" title="投稿须知"  description="" />
+        <siteMapNode url="~/author/help.aspx" title="在线帮助"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="在线投稿"  description="">
+        <siteMapNode url="~/author/contribution1.aspx" title="我要投稿"  description="">
+          <siteMapNode url="~/author/contribution2.aspx" title="作者信息"/>
+          <siteMapNode url="~/author/contribution3.aspx" title="上传稿件"/>
+        </siteMapNode>
+        <siteMapNode url="~/author/doclists.aspx" title="已投稿件"  description="" />
+        <siteMapNode url="~/author/modifylist.aspx" title="返修稿件"  description="" />
+        <siteMapNode url="~/author/boardlist.aspx" title="发表稿件"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="信息中心"  description="">
+        <siteMapNode url="~/author/sendmessage.aspx" title="发送消息"  description="" />
+        <siteMapNode url="~/author/inputbox.aspx" title="已接收消息"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="个人信息"  description="" >
+        <siteMapNode url="~/author/modifyinfo.aspx" title="个人资料"  description="" />
+        <siteMapNode url="~/author/modifypwd.aspx" title="修改密码"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="用户政策信息"  description="">
+        <siteMapNode url="~/author/introduction.aspx" title="期刊简介"  description="" />
+        <siteMapNode url="~/author/privacy.aspx" title="用户隐私"  description="" />
+        <siteMapNode url="~/author/policy.aspx" title="法律声明"  description="" />
+      </siteMapNode>
+      </siteMapNode>
+
+
+      <siteMapNode url="" title="主编办公"  description="">
+        <siteMapNode url="" title="使用导航"  description="" >
+          <siteMapNode url="~/admin/help.aspx" title="在线帮助"  description="" />
+        </siteMapNode>
+        <siteMapNode url="" title="稿件管理"  description="" >
+          <siteMapNode url="~/admin/doclist.aspx" title="初审稿件"  description="" />
+          <siteMapNode url="~/admin/reassesslist.aspx" title="复审稿件"  description="" />
+          <siteMapNode url="~/admin/assessedlist.aspx" title="已审稿件"  description="" />
+          <siteMapNode url="~/admin/boardlist.aspx" title="版面安排"  description="" />
+          <siteMapNode url="~/admin/alldocs.aspx" title="来稿信息"  description="" />
+        </siteMapNode>
+        <siteMapNode url="" title="信息中心"  description="">
+          <siteMapNode url="~/admin/sendmessage.aspx" title="发送消息"  description="" />
+          <siteMapNode url="~/admin/inputbox.aspx" title="已接收消息"  description="" />
+        </siteMapNode>
+        <siteMapNode url="" title="人员管理"  description="">
+          <siteMapNode url="~/admin/editormaintain.aspx" title="编辑管理"  description="" />
+          <siteMapNode url="~/admin/expertmaintain.aspx" title="专家管理"  description="" />
+          <siteMapNode url="~/admin/authorlist.aspx" title="作者管理"  description="" />
+        </siteMapNode>
+        <siteMapNode url="" title="系统设置"  description="">
+          <siteMapNode url="~/admin/setcolumn.aspx" title="栏目管理"  description="" />
+          <siteMapNode url="~/admin/modifypwd.aspx" title="修改密码"  description="" />
+        </siteMapNode>
+      </siteMapNode>
+      
+      <siteMapNode url="" title="编辑办公"  description="">
+      <siteMapNode url="" title="使用导航"  description="" >
+        <siteMapNode url="~/editor/help.aspx" title="在线帮助"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="稿件管理"  description="" >
+        <siteMapNode url="~/editor/authorlist.aspx" title="初审稿件"  description=""/>
+        <siteMapNode url="~/editor/expertlist.aspx" title="复审稿件"  description="" />
+        <siteMapNode url="~/editor/assessedtlist.aspx" title="已审稿件"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="信息中心"  description="" >
+        <siteMapNode url="~/editor/sendmessage.aspx" title="发送消息"  description="" />
+        <siteMapNode url="~/editor/inputbox.aspx" title="已接收消息"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="个人信息"  description="">
+        <siteMapNode url="~/editor/modifyinfo.aspx" title="个人资料"  description="" />
+        <siteMapNode url="~/editor/modifypwd.aspx" title="修改密码"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="编辑部信息"  description="" >
+        <siteMapNode url="~/editor/expertmaintain.aspx" title="添加审稿专家"  description="" />
+        <siteMapNode url="~/editor/introduction.aspx" title="期刊简介"  description="" />
+        <siteMapNode url="~/editor/policy.aspx" title="编辑部简介"  description="" />
+      </siteMapNode>
+      </siteMapNode>
+
+      
+      <siteMapNode url="" title="专家审稿"  description="">
+      <siteMapNode url="" title="使用导航"  description="" >
+        <siteMapNode url="~/expert/help.aspx" title="专家审稿说明"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="审稿管理"  description="" >
+        <siteMapNode url="~/expert/newdoclist.aspx" title="未审稿件"  description=""/>
+        <siteMapNode url="~/expert/assessedlist.aspx" title="已审稿件"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="信息中心"  description="" >
+          <siteMapNode url="~/expert/sendmessage.aspx" title="发送消息"  description="" />
+        <siteMapNode url="~/expert/inputbox.aspx" title="已接收消息"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="个人信息"  description="">
+        <siteMapNode url="~/expert/modifyinfo.aspx" title="个人资料"  description="" />
+        <siteMapNode url="~/expert/modifypwd.aspx" title="修改密码"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="编辑部信息"  description="">
+        <siteMapNode url="~/expert/introduction.aspx" title="期刊简介"  description="" />
+        <siteMapNode url="~/expert/policy.aspx" title="编辑部简介"  description="" />
+      </siteMapNode>
+      </siteMapNode>
+
+    </siteMapNode>
+  
+</siteMap>
